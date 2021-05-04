@@ -1,0 +1,284 @@
+[
+  {
+    "Year": "1977–78",
+    "Input": 100,
+    "Output": 100,
+    "TFP": 100
+  },
+  {
+    "Year": "1978–79",
+    "Input": 86,
+    "Output": 84,
+    "TFP": 98
+  },
+  {
+    "Year": "1979–80",
+    "Input": 96,
+    "Output": 90,
+    "TFP": 94
+  },
+  {
+    "Year": "1980–81",
+    "Input": 90,
+    "Output": 90,
+    "TFP": 101
+  },
+  {
+    "Year": "1981–82",
+    "Input": 87,
+    "Output": 89,
+    "TFP": 102
+  },
+  {
+    "Year": "1982–83",
+    "Input": 83,
+    "Output": 75,
+    "TFP": 91
+  },
+  {
+    "Year": "1983–84",
+    "Input": 73,
+    "Output": 73,
+    "TFP": 99
+  },
+  {
+    "Year": "1984–85",
+    "Input": 79,
+    "Output": 80,
+    "TFP": 101
+  },
+  {
+    "Year": "1985–86",
+    "Input": 66,
+    "Output": 68,
+    "TFP": 104
+  },
+  {
+    "Year": "1986–87",
+    "Input": 65,
+    "Output": 67,
+    "TFP": 102
+  },
+  {
+    "Year": "1987–88",
+    "Input": 62,
+    "Output": 64,
+    "TFP": 103
+  },
+  {
+    "Year": "1988–89",
+    "Input": 65,
+    "Output": 70,
+    "TFP": 108
+  },
+  {
+    "Year": "1989–90",
+    "Input": 74,
+    "Output": 88,
+    "TFP": 118
+  },
+  {
+    "Year": "1990–91",
+    "Input": 71,
+    "Output": 79,
+    "TFP": 111
+  },
+  {
+    "Year": "1991–92",
+    "Input": 70,
+    "Output": 78,
+    "TFP": 111
+  },
+  {
+    "Year": "1992–93",
+    "Input": 77,
+    "Output": 95,
+    "TFP": 123
+  },
+  {
+    "Year": "1993–94",
+    "Input": 75,
+    "Output": 95,
+    "TFP": 126
+  },
+  {
+    "Year": "1994–95",
+    "Input": 79,
+    "Output": 97,
+    "TFP": 123
+  },
+  {
+    "Year": "1995–96",
+    "Input": 73,
+    "Output": 96,
+    "TFP": 131
+  },
+  {
+    "Year": "1996–97",
+    "Input": 69,
+    "Output": 100,
+    "TFP": 146
+  },
+  {
+    "Year": "1997–98",
+    "Input": 69,
+    "Output": 93,
+    "TFP": 134
+  },
+  {
+    "Year": "1998–99",
+    "Input": 65,
+    "Output": 88,
+    "TFP": 135
+  },
+  {
+    "Year": "1999–2000",
+    "Input": 72,
+    "Output": 94,
+    "TFP": 130
+  },
+  {
+    "Year": "2000–01",
+    "Input": 76,
+    "Output": 99,
+    "TFP": 130
+  },
+  {
+    "Year": "2001–02",
+    "Input": 75,
+    "Output": 94,
+    "TFP": 125
+  },
+  {
+    "Year": "2002–03",
+    "Input": 90,
+    "Output": 110,
+    "TFP": 122
+  },
+  {
+    "Year": "2003–04",
+    "Input": 86,
+    "Output": 108,
+    "TFP": 125
+  },
+  {
+    "Year": "2004–05",
+    "Input": 88,
+    "Output": 121,
+    "TFP": 139
+  },
+  {
+    "Year": "2005–06",
+    "Input": 90,
+    "Output": 123,
+    "TFP": 137
+  },
+  {
+    "Year": "2006–07",
+    "Input": 92,
+    "Output": 140,
+    "TFP": 153
+  },
+  {
+    "Year": "2007–08",
+    "Input": 79,
+    "Output": 116,
+    "TFP": 146
+  },
+  {
+    "Year": "2008–09",
+    "Input": 76,
+    "Output": 104,
+    "TFP": 136
+  },
+  {
+    "Year": "2009–10",
+    "Input": 79,
+    "Output": 109,
+    "TFP": 139
+  },
+  {
+    "Year": "2010–11",
+    "Input": 73,
+    "Output": 103,
+    "TFP": 142
+  },
+  {
+    "Year": "2011–12",
+    "Input": 72,
+    "Output": 100,
+    "TFP": 139
+  },
+  {
+    "Year": "2012–13",
+    "Input": 78,
+    "Output": 109,
+    "TFP": 140
+  },
+  {
+    "Year": "2013–14",
+    "Input": 86,
+    "Output": 114,
+    "TFP": 133
+  },
+  {
+    "Year": "2014–15",
+    "Input": 88,
+    "Output": 105,
+    "TFP": 119
+  },
+  {
+    "Year": "2015–16",
+    "Input": 84,
+    "Output": 101,
+    "TFP": 121
+  },
+  {
+    "Year": "2016–17",
+    "Input": 79,
+    "Output": 95,
+    "TFP": 120
+  },
+  {
+    "Year": "2017–18",
+    "Input": 86,
+    "Output": 110,
+    "TFP": 128
+  },
+  {
+    "Year": "2018–19",
+    "Input": 97,
+    "Output": 115,
+    "TFP": 119
+  },
+  {
+    "Year": "2019–20",
+    "Input": 99,
+    "Output": 108,
+    "TFP": 109
+  },
+  {
+    "Year": "",
+    "Input": "",
+    "Output": "",
+    "TFP": ""
+  },
+  {
+    "Year": "",
+    "Input": "",
+    "Output": "",
+    "TFP": ""
+  },
+  {
+    "Year": "",
+    "Input": "",
+    "Output": "",
+    "TFP": ""
+  },
+  {
+    "Year": "",
+    "Input": "",
+    "Output": "",
+    "TFP": ""
+  }
+]
