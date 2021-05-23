@@ -114,8 +114,8 @@ Temperature - (Celsius),Year,Month,Country,ISO3,Rainfall - (MM),TFP
 16.6, 2000, May, Australia, AUS,23.5,162
 14.1, 2000, Jun, Australia, AUS,17.0,162
 14.6, 2000, Jul, Australia, AUS,15.8,162
-15.7, 2000, Aug, Australia, AUS,18.9,
-20.6, 2000, Sep, Australia, AUS,11.8,
-22.0, 2000, Oct, Australia, AUS,43.5,
-25.2, 2000, Nov, Australia, AUS,61.2,
-26.9, 2000, Dec, Australia, AUS,73.0,
+15.7, 2000, Aug, Australia, AUS,18.9,162
+20.6, 2000, Sep, Australia, AUS,11.8,162
+22.0, 2000, Oct, Australia, AUS,43.5,162
+25.2, 2000, Nov, Australia, AUS,61.2,162
+26.9, 2000, Dec, Australia, AUS,73.0,162
